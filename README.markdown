@@ -4,7 +4,7 @@ AI-powered mental health chatbot with Hugging Face APIs, Firebase auth, and grok
 
 ## Demo
 
-- Live: \[flair/chat\](netlifylivedemo)
+- Live: [flair/chat](netlifylivedemo)
 - Local: `http://localhost:3000`
 
 ## Features
